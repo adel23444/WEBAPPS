@@ -1,6 +1,6 @@
 # Разработка Интернет Приложений (РИП) 2023
 
-Отчеты по лабораторным работам и ДЗ отправлять на почту `aikanev@bmstu.ru`
+Отчеты по лабораторным работам и ДЗ отправлять в Telegram `@khamidullin23444`
 
 ## [Видеозаписи лекций в youtube](https://youtube.com/playlist?list=PLLELLTvDgUQ9cpB1XzSuZ0mNSBkbjVNJ_)
 #### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/iu5git/Standards/blob/main/Linux/Linux.md) для выполнения заданий курса 
